@@ -1,2 +1,5 @@
 # DERV_3_Unidad_3_Progs
- DERV I Equipo 3
+Hernandez Ortiz Francisco Javier
+Guzman Rivera Jesus Alberto
+Rodriguez Bautista Mario Alberto
+Muro Roman Sebastian
